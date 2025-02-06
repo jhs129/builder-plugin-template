@@ -38,8 +38,3 @@ Builder.registerEditor({
   name: "MyPluginExample",
   component: PluginExample,
 });
-
-Builder.registerEditor({
-    name: "Foo Bar",
-    component: PluginExample,
-});
